@@ -8,6 +8,7 @@
     <sound>sound\sound2</sound>
     <sound>sound\sound1</sound>
     <sound>sound\compute</sound>
+    <sound>sound\sound3</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\CHARBATTLE</sprite>
