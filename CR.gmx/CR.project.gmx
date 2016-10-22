@@ -54,6 +54,7 @@
     <sprite>sprites\sprite40</sprite>
     <sprite>sprites\sprite41</sprite>
     <sprite>sprites\uifjfjjkgkphtktoht</sprite>
+    <sprite>sprites\sprite43</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths">
@@ -109,6 +110,7 @@
     <object>objects\object41</object>
     <object>objects\nextroom</object>
     <object>objects\object43</object>
+    <object>objects\object44</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\timeline0</timeline>
