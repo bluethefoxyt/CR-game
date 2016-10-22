@@ -1,0 +1,2 @@
+# CR-game
+opensource version
