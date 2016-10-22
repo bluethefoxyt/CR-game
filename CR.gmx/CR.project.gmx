@@ -108,6 +108,7 @@
     <object>objects\computemusic</object>
     <object>objects\object41</object>
     <object>objects\nextroom</object>
+    <object>objects\object43</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\timeline0</timeline>

@@ -156,6 +156,7 @@
     <instance objName="next" x="320" y="32" name="inst_FB9DEFD2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object0" x="416" y="320" name="inst_01FFBE0B" locked="0" code="" scaleX="2" scaleY="3" colour="4294967295" rotation="0"/>
     <instance objName="object30" x="608" y="32" name="inst_5BBC9F1A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="object43" x="0" y="0" name="inst_287ACD72" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
