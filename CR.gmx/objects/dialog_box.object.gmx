@@ -25,8 +25,8 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>text = "test 123";
-strshow = 0;
+            <string>text = "The quick brown fox jumps over a lazy dog. Pack my box with five dozen liquor jugs.";
+StrShown = 0;
 counter = 0;
 if(text == noone){
 instance_destroy();
@@ -60,7 +60,7 @@ counter += 1;
 if(counter == time){
 counter = 0;
 
-strshow += 1;
+StrShown += 1;
 
 }
 </string>
@@ -85,7 +85,7 @@ strshow += 1;
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>draw_sprite_ext(sprite_index, -1, x+4,y,room_width/sprite_width+0.3,2,0,c_white,1)
+            <string>draw_sprite_ext(sprite_index, -1, x+4,y,room_width/sprite_width+0.3,2,0,c_white,1);
 draw_set_font(bit8);
 draw_set_halign(fa_left);
 draw_set_valign(fa_top);

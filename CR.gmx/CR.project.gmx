@@ -9,6 +9,7 @@
     <sound>sound\sound1</sound>
     <sound>sound\compute</sound>
     <sound>sound\sound3</sound>
+    <sound>sound\snd_nav</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\CHARBATTLE</sprite>
@@ -55,14 +56,18 @@
     <sprite>sprites\sprite41</sprite>
     <sprite>sprites\uifjfjjkgkphtktoht</sprite>
     <sprite>sprites\sprite43</sprite>
+    <sprite>sprites\sprite44</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\background0</background>
+  </backgrounds>
   <paths name="paths">
     <path>paths\path0</path>
     <path>paths\path1</path>
   </paths>
   <scripts name="scripts">
     <script>scripts\scr_text_narritive_draw.gml</script>
+    <script>scripts\scr_menu.gml</script>
   </scripts>
   <fonts name="fonts">
     <font>fonts\wingdings</font>
@@ -115,6 +120,11 @@
     <object>objects\object43</object>
     <object>objects\object44</object>
     <object>objects\dialog_box</object>
+    <object>objects\object45</object>
+    <object>objects\object46</object>
+    <object>objects\stat_and_pause</object>
+    <object>objects\object48</object>
+    <object>objects\wtw</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\timeline0</timeline>
@@ -125,6 +135,8 @@
     <room>rooms\room2</room>
     <room>rooms\room3</room>
     <room>rooms\room7</room>
+    <room>rooms\room18</room>
+    <room>rooms\room19</room>
     <room>rooms\room17</room>
     <room>rooms\room14</room>
     <room>rooms\room13</room>
